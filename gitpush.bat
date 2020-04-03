@@ -1,0 +1,3 @@
+git add .
+git commit -m "change some parts"
+git push origin master
